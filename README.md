@@ -9,4 +9,7 @@ Iniciando Sesión
 3. DBA, puede ver los datos ya ingresados, gestionar las depedndencias existentes así como el personal ya registrado, de igual manera puede generar nuevos usuarios.
 
 ## Preview
-![](/.jpg)
+![](/index.jpg)
+
+## Note
+El resto de los módulos como historial, y agregar nuevos usuarios no está disponible...
