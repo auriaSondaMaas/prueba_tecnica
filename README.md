@@ -13,3 +13,4 @@ Iniciando Sesión
 
 ## Note
 El resto de los módulos como historial, y agregar nuevos usuarios no está disponible...
+*Hay un error en la generación de pdf
